@@ -14,3 +14,4 @@ This validates your code to make sure that your code is valid and working with n
 ### CSS
 * Comprehensive list of CSS selectors: http://w3schools.com/css/css_reference_atoz.asp
 * CSS Validation: http://jigsaw.w3.org/css-validator/
+* Hex Codes http://www.color-hex.com/
